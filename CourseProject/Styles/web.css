@@ -1,0 +1,89 @@
+@media only screen and (min-width: 1024px) {  
+    header {
+      padding-bottom: 10px;
+      margin-bottom: 10px;
+    }
+    .nav {
+      padding: 12.8px 0;
+    }
+    .link > ul {
+      margin-right: 48px;
+    }
+    .link > ul > li {
+      margin-right:24px;
+    }
+    .nav > h1 {
+      font-size: 20.8px;
+    }
+    .input-group {
+      height: 48px;
+    }
+    .input-group > * {
+      font-size: 16px;
+    }
+    .link > ul > li:last-child {
+      margin: 0;
+    }
+    .link > ul > li > a {
+      font-size: 16px;
+    }
+    .card {
+      width: 256px;
+      height: 336px;
+      margin: 32px;
+    }
+    .country-info > p {
+      font-size:  19.2px;
+    }
+    #map {
+      width: 100%;
+      height: 640px;      ;
+    }
+    .about-us-div > h1 {
+      font-size: 25px;
+      margin-top:100px ;
+      font-weight: 1000;
+    }
+    .country-map {
+      margin-top: 32px;
+    }
+    .card > img {
+      height: 160px;
+    }
+    .countries-div {
+      margin-top:20px;
+    }
+    .card-body > div > * {
+      margin-bottom: 4.8px;
+      font-size: 14.4px;
+    }
+    .card-body > h5 {
+      margin-bottom:12.8px;
+      font-size: 19.2px;
+    }
+    .about-us-div > p {
+      font-size: 20.8px;
+    }
+    .country-info > h1 {
+      font-size: 40px;
+      font-weight: 1000;
+      margin-top: 0;
+    }
+    .country-div {
+      padding-bottom: 32px;
+      margin-top: 80px;
+    }
+    .return-back {
+      padding: 0.8em 1.5em;
+      font-size: 16px;
+    }
+    .flag > img:last-child {
+      height: 160px;
+      width: 152px;
+      margin-left: 152px;
+    }
+    .flag > img:first-child {
+      width: 512px;
+    }
+}
+  
